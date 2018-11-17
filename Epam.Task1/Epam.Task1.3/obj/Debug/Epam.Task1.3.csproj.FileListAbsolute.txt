@@ -1,0 +1,14 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task1\Epam.Task1.3\bin\Debug\Epam.Task1.3.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task1\Epam.Task1.3\bin\Debug\Epam.Task1.3.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task1\Epam.Task1.3\bin\Debug\Epam.Task1.3.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task1\Epam.Task1.3\obj\Debug\Epam.Task1.3.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task1\Epam.Task1.3\obj\Debug\Epam.Task1.3.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task1\Epam.Task1.3\obj\Debug\Epam.Task1.3.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task1\Epam.Task1.3\obj\Debug\Epam.Task1.3.pdb
+C:\Users\Huy_s_gori\Desktop\Epam.Task1\Epam.Task1.3\bin\Debug\Epam.Task1.3.exe.config
+C:\Users\Huy_s_gori\Desktop\Epam.Task1\Epam.Task1.3\bin\Debug\Epam.Task1.3.exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task1\Epam.Task1.3\bin\Debug\Epam.Task1.3.pdb
+C:\Users\Huy_s_gori\Desktop\Epam.Task1\Epam.Task1.3\obj\Debug\Epam.Task1.3.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task1\Epam.Task1.3\obj\Debug\Epam.Task1.3.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task1\Epam.Task1.3\obj\Debug\Epam.Task1.3.exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task1\Epam.Task1.3\obj\Debug\Epam.Task1.3.pdb
