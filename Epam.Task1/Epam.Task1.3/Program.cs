@@ -8,18 +8,16 @@ namespace Epam.Task1._3
 {
     class Program
     {
-        public static string SQUARE(int n)
+        public static void SQUARE(int n)
         {
-            StringBuilder sb = new StringBuilder();
             int counter_strok=1;
-            string for_output;
             for (int i = 0; i <= n; i++)
             {
                 if (i == n)
                 {
                     i = 0;
                     counter_strok++;
-                    sb.Append(Environment.NewLine);
+                    Console.WriteLine("");
                 }
                 if (counter_strok > n)
                 {
@@ -27,20 +25,40 @@ namespace Epam.Task1._3
                 }
                 if (!((counter_strok - 1 == n / 2) & (i == (n / 2))))
                 {
-                    sb.Append("*");
+                    Console.Write("*");
                 }
                 else
                 {
-                    sb.Append(" ");
+                    Console.Write(" ");
                 }
             }
-            return for_output = sb.ToString();
         }
         static void Main(string[] args)
         {
-            int n = Int32.Parse(Console.ReadLine());
-            Console.WriteLine(SQUARE(n));
-            Console.ReadLine();
+
+            Console.WriteLine("enter an odd number more than 0");
+
+            while (true)
+            {
+                try
+                {
+                    int n = int.Parse(Console.ReadLine());
+                    if (n > 0 & n % 2 !=0)
+                    {
+                        SQUARE(n);
+                        break;
+                    }
+                    else
+                    {
+                        throw new Exception("Not this, enter an odd number more than 0");
+                    }
+
+                }
+                catch
+                {
+                    Console.WriteLine("Not this, enter an odd number more than 0");
+                }
+            }
         }
     }
 }

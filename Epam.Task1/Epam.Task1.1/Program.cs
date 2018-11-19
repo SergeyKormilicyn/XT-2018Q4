@@ -8,25 +8,46 @@ namespace Epam.Task1._1
 { 
     class Program
     {
-        public static string SEQUENCE(int n)
+        public static void SEQUENCE(int n)
         {
-            string for_output;
             StringBuilder sb = new StringBuilder();
             for (int i = 1; i <= n; i++)
             {
-                sb.Append(i);
                 if (i != n)
                 {
-                    sb.Append(", ");
+                    Console.Write(i + ", ");
+                }
+                else
+                {
+                    Console.WriteLine(i);
                 }
             }
-            return for_output = sb.ToString();
         }
+
         static void Main(string[] args)
         {
-            int n = Int32.Parse(Console.ReadLine());
-           Console.WriteLine(SEQUENCE(n));
-            Console.ReadLine();
+            Console.WriteLine("enter a number more than 0");
+
+            while (true)
+            {
+                try
+                {
+                    int n = int.Parse(Console.ReadLine());
+                    if (n > 0)
+                    {
+                        SEQUENCE(n);
+                        break;
+                    }
+                    else
+                    {
+                        throw new Exception("Not this, enter a number more than 0");
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Not this, enter a number more than 0");
+                }
+            }
         }
     }
 }

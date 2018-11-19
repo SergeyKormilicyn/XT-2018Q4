@@ -8,22 +8,43 @@ namespace Epam.Task1._2
 {
     class Program
     {
-        public static bool SIMPLE(int n)
+        public static void SIMPLE(int n)
         {
-            for (int i = 2; i < n/2; i++)
+            for (int i = 2; i <= Math.Sqrt(n); i++)
             {
-                if (n % i==0)
+                if (n % i == 0)
                 {
-                    return true;   
+                    Console.WriteLine("the number is not simple");
+                    return;
                 }
             }
-            return false;
+            Console.WriteLine("the number is simple");
+
         }
         static void Main(string[] args)
         {
-            int n = Int32.Parse(Console.ReadLine());
-            Console.WriteLine(SIMPLE(n));
-            Console.ReadLine();
+            Console.WriteLine("enter a number more than 0");
+
+            while (true)
+            {
+                try
+                {
+                    int n = int.Parse(Console.ReadLine());
+                    if (n > 0)
+                    {
+                        SIMPLE(n);
+                        break;
+                    }
+                    else
+                    {
+                        throw new Exception("Not this, enter a number more than 0");
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Not this, enter a number more than 0");
+                }
+            }
         }
     }
 }

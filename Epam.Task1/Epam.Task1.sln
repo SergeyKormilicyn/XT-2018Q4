@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task1.1", "Epam.Task1.1\Epam.Task1.1.csproj", "{C3AA3763-FA0D-492A-A97A-6E1AB651AEA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task1.SEQUENCE", "Epam.Task1.1\Epam.Task1.SEQUENCE.csproj", "{C3AA3763-FA0D-492A-A97A-6E1AB651AEA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task1.2", "Epam.Task1.2\Epam.Task1.2.csproj", "{1E19379E-8C7D-4F46-B835-BB2AAC773C7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task1.SIMPLE", "Epam.Task1.2\Epam.Task1.SIMPLE.csproj", "{1E19379E-8C7D-4F46-B835-BB2AAC773C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task1.3", "Epam.Task1.3\Epam.Task1.3.csproj", "{D59BF1A3-6A1E-40C6-A7BE-6C0413BD99E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task1.SQUARE", "Epam.Task1.3\Epam.Task1.SQUARE.csproj", "{D59BF1A3-6A1E-40C6-A7BE-6C0413BD99E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
