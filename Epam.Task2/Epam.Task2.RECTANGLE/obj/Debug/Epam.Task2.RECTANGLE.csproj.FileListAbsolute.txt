@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.RECTANGLE\bin\Debug\Epam.Task2.RECTANGLE.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.RECTANGLE\bin\Debug\Epam.Task2.RECTANGLE.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.RECTANGLE\bin\Debug\Epam.Task2.RECTANGLE.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.RECTANGLE\obj\Debug\Epam.Task2.RECTANGLE.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.RECTANGLE\obj\Debug\Epam.Task2.RECTANGLE.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.RECTANGLE\obj\Debug\Epam.Task2.RECTANGLE.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.RECTANGLE\obj\Debug\Epam.Task2.RECTANGLE.csprojAssemblyReference.cache

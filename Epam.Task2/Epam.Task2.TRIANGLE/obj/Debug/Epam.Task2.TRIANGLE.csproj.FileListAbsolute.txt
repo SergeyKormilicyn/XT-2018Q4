@@ -1,0 +1,6 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.TRIANGLE\bin\Debug\Epam.Task2.TRIANGLE.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.TRIANGLE\bin\Debug\Epam.Task2.TRIANGLE.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.TRIANGLE\bin\Debug\Epam.Task2.TRIANGLE.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.TRIANGLE\obj\Debug\Epam.Task2.TRIANGLE.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.TRIANGLE\obj\Debug\Epam.Task2.TRIANGLE.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.TRIANGLE\obj\Debug\Epam.Task2.TRIANGLE.pdb

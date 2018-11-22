@@ -1,0 +1,12 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.X-MAS TREE\bin\Debug\Epam.Task2.X-MAS TREE.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.X-MAS TREE\bin\Debug\Epam.Task2.X-MAS TREE.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.X-MAS TREE\bin\Debug\Epam.Task2.X-MAS TREE.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.X-MAS TREE\obj\Debug\Epam.Task2.X-MAS TREE.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.X-MAS TREE\obj\Debug\Epam.Task2.X-MAS TREE.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.X-MAS TREE\obj\Debug\Epam.Task2.X-MAS TREE.pdb
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.X-MAS TREE\bin\Debug\Epam.Task2.X-MAS TREE.exe.config
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.X-MAS TREE\bin\Debug\Epam.Task2.X-MAS TREE.exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.X-MAS TREE\bin\Debug\Epam.Task2.X-MAS TREE.pdb
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.X-MAS TREE\obj\Debug\Epam.Task2.X-MAS TREE.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.X-MAS TREE\obj\Debug\Epam.Task2.X-MAS TREE.exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.X-MAS TREE\obj\Debug\Epam.Task2.X-MAS TREE.pdb

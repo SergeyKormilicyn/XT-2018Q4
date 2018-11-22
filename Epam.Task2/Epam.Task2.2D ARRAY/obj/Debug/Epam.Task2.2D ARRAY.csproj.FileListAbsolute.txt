@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.2D ARRAY\bin\Debug\Epam.Task2.2D ARRAY.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.2D ARRAY\bin\Debug\Epam.Task2.2D ARRAY.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.2D ARRAY\bin\Debug\Epam.Task2.2D ARRAY.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.2D ARRAY\obj\Debug\Epam.Task2.2D ARRAY.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.2D ARRAY\obj\Debug\Epam.Task2.2D ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.2D ARRAY\obj\Debug\Epam.Task2.2D ARRAY.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.2D ARRAY\obj\Debug\Epam.Task2.2D ARRAY.pdb

@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.ARRAY PROCESSING\bin\Debug\Epam.Task2.ARRAY PROCESSING.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.ARRAY PROCESSING\bin\Debug\Epam.Task2.ARRAY PROCESSING.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.ARRAY PROCESSING\bin\Debug\Epam.Task2.ARRAY PROCESSING.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.ARRAY PROCESSING\obj\Debug\Epam.Task2.ARRAY PROCESSING.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.ARRAY PROCESSING\obj\Debug\Epam.Task2.ARRAY PROCESSING.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.ARRAY PROCESSING\obj\Debug\Epam.Task2.ARRAY PROCESSING.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.ARRAY PROCESSING\obj\Debug\Epam.Task2.ARRAY PROCESSING.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.FONT ADJUSTMENT\bin\Debug\Epam.Task2.FONT ADJUSTMENT.exe.config
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.FONT ADJUSTMENT\bin\Debug\Epam.Task2.FONT ADJUSTMENT.exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.FONT ADJUSTMENT\bin\Debug\Epam.Task2.FONT ADJUSTMENT.pdb
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.FONT ADJUSTMENT\obj\Debug\Epam.Task2.FONT ADJUSTMENT.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.FONT ADJUSTMENT\obj\Debug\Epam.Task2.FONT ADJUSTMENT.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.FONT ADJUSTMENT\obj\Debug\Epam.Task2.FONT ADJUSTMENT.exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.FONT ADJUSTMENT\obj\Debug\Epam.Task2.FONT ADJUSTMENT.pdb

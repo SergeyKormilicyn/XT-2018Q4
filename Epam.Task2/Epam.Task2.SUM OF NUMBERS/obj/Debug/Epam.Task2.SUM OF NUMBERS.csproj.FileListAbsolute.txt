@@ -1,0 +1,14 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.SUM OF NUMBERS\bin\Debug\Epam.Task2.SUM OF NUMBERS.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.SUM OF NUMBERS\bin\Debug\Epam.Task2.SUM OF NUMBERS.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.SUM OF NUMBERS\bin\Debug\Epam.Task2.SUM OF NUMBERS.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.SUM OF NUMBERS\obj\Debug\Epam.Task2.SUM OF NUMBERS.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.SUM OF NUMBERS\obj\Debug\Epam.Task2.SUM OF NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.SUM OF NUMBERS\obj\Debug\Epam.Task2.SUM OF NUMBERS.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.SUM OF NUMBERS\obj\Debug\Epam.Task2.SUM OF NUMBERS.pdb
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.SUM OF NUMBERS\bin\Debug\Epam.Task2.SUM OF NUMBERS.exe.config
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.SUM OF NUMBERS\bin\Debug\Epam.Task2.SUM OF NUMBERS.exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.SUM OF NUMBERS\bin\Debug\Epam.Task2.SUM OF NUMBERS.pdb
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.SUM OF NUMBERS\obj\Debug\Epam.Task2.SUM OF NUMBERS.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.SUM OF NUMBERS\obj\Debug\Epam.Task2.SUM OF NUMBERS.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.SUM OF NUMBERS\obj\Debug\Epam.Task2.SUM OF NUMBERS.exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task2\Epam.Task2.SUM OF NUMBERS\obj\Debug\Epam.Task2.SUM OF NUMBERS.pdb

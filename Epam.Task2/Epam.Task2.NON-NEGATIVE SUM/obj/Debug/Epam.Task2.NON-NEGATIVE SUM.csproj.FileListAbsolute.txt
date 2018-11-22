@@ -1,0 +1,6 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.NON-NEGATIVE SUM\bin\Debug\Epam.Task2.NON-NEGATIVE SUM.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.NON-NEGATIVE SUM\bin\Debug\Epam.Task2.NON-NEGATIVE SUM.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.NON-NEGATIVE SUM\bin\Debug\Epam.Task2.NON-NEGATIVE SUM.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.NON-NEGATIVE SUM\obj\Debug\Epam.Task2.NON-NEGATIVE SUM.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.NON-NEGATIVE SUM\obj\Debug\Epam.Task2.NON-NEGATIVE SUM.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task2\Epam.Task2.NON-NEGATIVE SUM\obj\Debug\Epam.Task2.NON-NEGATIVE SUM.pdb
