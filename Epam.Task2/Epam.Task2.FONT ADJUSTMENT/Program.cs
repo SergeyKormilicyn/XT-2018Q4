@@ -8,43 +8,33 @@ namespace FONT_ADJUSTMENT
 {
     class Program
     {
-        enum text_formatting
+        [Flags]
+        enum text_formatting : byte
         {
-            bold,
-            italic,
-            underline,
+            none = 0,
+            bold = 1,
+            italic = 2,
+            underline = 4,
         }
-        static bool[] selected_fonts = new bool[3];
+        static text_formatting curecurrent_text_status = text_formatting.none;
 
         public static void current_state()
         {
-            bool chek_none = false;
             Console.Write("label parameters: ");
-            for (int i = 0; i < selected_fonts.Length; i++)
-            {
-                if (selected_fonts[i])
-                {
-                    Console.Write((text_formatting)i + " ");
-                    chek_none = true;
-                }
-            }
-            if (!chek_none)
-            {
-                Console.Write("None");
-            }
-            Console.Write(Environment.NewLine);
+            Console.Write(curecurrent_text_status + Environment.NewLine);
             Console.WriteLine("1: " + text_formatting.bold + Environment.NewLine + "2: " + text_formatting.italic + Environment.NewLine + "3: " + text_formatting.underline);
         }
 
         public static void change_state(int n)
         {
-            if (selected_fonts[n])
+            n = Convert.ToInt32(Math.Pow(2, n - 1));
+            if (curecurrent_text_status.HasFlag((text_formatting)n))
             {
-                selected_fonts[n] = false;
+                curecurrent_text_status &= ~(text_formatting)n;
             }
             else
             {
-                selected_fonts[n] = true;
+                curecurrent_text_status |= (text_formatting)n;
             }
         }
         static void Main(string[] args)
@@ -56,7 +46,7 @@ namespace FONT_ADJUSTMENT
                 Console.WriteLine("enter the number of the label which you want to add or delete");
                 if (Int32.TryParse(Console.ReadLine(), out n) & n <= 3 & n > 0)
                 {
-                    change_state(n - 1);
+                    change_state(n);
                 }
                 else
                 {
