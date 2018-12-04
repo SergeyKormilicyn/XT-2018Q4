@@ -1,0 +1,11 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\bin\Debug\Epam.Task3.EMPLOYEE.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\bin\Debug\Epam.Task3.EMPLOYEE.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\bin\Debug\Epam.Task3.EMPLOYEE.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\bin\Debug\Epam.Task3.USER.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\bin\Debug\Epam.Task3.USER.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\bin\Debug\Epam.Task3.USER.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\obj\Debug\Epam.Task3.EMPLOYEE.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\obj\Debug\Epam.Task3.EMPLOYEE.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\obj\Debug\Epam.Task3.EMPLOYEE.csproj.CopyComplete
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\obj\Debug\Epam.Task3.EMPLOYEE.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.EMPLOYEE\obj\Debug\Epam.Task3.EMPLOYEE.pdb

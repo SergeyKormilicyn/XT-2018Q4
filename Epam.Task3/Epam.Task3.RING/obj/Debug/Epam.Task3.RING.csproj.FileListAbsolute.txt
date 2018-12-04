@@ -1,0 +1,11 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\bin\Debug\Epam.Task3.RING.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\bin\Debug\Epam.Task3.RING.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\bin\Debug\Epam.Task3.RING.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\bin\Debug\Epam.Task3.ROUND.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\bin\Debug\Epam.Task3.ROUND.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\bin\Debug\Epam.Task3.ROUND.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\obj\Debug\Epam.Task3.RING.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\obj\Debug\Epam.Task3.RING.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\obj\Debug\Epam.Task3.RING.csproj.CopyComplete
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\obj\Debug\Epam.Task3.RING.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.RING\obj\Debug\Epam.Task3.RING.pdb

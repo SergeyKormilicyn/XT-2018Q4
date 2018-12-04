@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.ROUND\bin\Debug\Epam.Task3.ROUND.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.ROUND\bin\Debug\Epam.Task3.ROUND.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.ROUND\bin\Debug\Epam.Task3.ROUND.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.ROUND\obj\Debug\Epam.Task3.ROUND.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.ROUND\obj\Debug\Epam.Task3.ROUND.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.ROUND\obj\Debug\Epam.Task3.ROUND.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.ROUND\obj\Debug\Epam.Task3.ROUND.pdb

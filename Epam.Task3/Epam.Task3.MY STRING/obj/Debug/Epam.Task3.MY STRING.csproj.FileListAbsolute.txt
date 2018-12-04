@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.MY STRING\obj\Debug\Epam.Task3.MY STRING.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.MY STRING\obj\Debug\Epam.Task3.MY STRING.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.MY STRING\bin\Debug\Epam.Task3.MY STRING.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.MY STRING\bin\Debug\Epam.Task3.MY STRING.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.MY STRING\bin\Debug\Epam.Task3.MY STRING.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.MY STRING\obj\Debug\Epam.Task3.MY STRING.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.MY STRING\obj\Debug\Epam.Task3.MY STRING.pdb
