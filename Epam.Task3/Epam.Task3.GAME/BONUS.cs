@@ -6,21 +6,16 @@ using System.Threading.Tasks;
 
 namespace Epam.Task3.GAME
 {
-    abstract class BONUS : TERRITORY
+    public abstract class BONUS : TERRITORY
     {
-        public int x { get; set; }
-        public int y { get; set; }
-        public int speedincrease { get; set; }
-        public int effecttime { get; set; }
-
         public BONUS(int x, int y, int speedincrease)
         {
-            if (x >= base.x & x <= 0)
+            if (x >= base.X & x <= 0)
             {
                 throw new Exception("bonus can not be located abroad, error x");
             }
 
-            if (y >= base.y & y <= 0)
+            if (y >= base.Y & y <= 0)
             {
                 throw new Exception("bonus can not be located abroad, error y");
             }
@@ -30,14 +25,22 @@ namespace Epam.Task3.GAME
                 throw new Exception("speed bonus can not be negative");
             }
 
-            if (effecttime > 0)
+            if (this.Effecttime > 0)
             {
                 throw new Exception("time bonus can not be negative");
             }
 
-            this.x = x;
-            this.y = y;
-            this.speedincrease = speedincrease;
+            this.X = x;
+            this.Y = y;
+            this.Speedincrease = speedincrease;
         }
+
+        public new int X { get; set; }
+
+        public new int Y { get; set; }
+
+        public int Speedincrease { get; set; }
+
+        public int Effecttime { get; set; }
     }
 }

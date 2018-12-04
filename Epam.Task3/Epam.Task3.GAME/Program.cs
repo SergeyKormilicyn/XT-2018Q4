@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Epam.Task3.GAME
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-
         }
     }
 }

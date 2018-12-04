@@ -6,50 +6,53 @@ using System.Threading.Tasks;
 
 namespace Epam.Task3.GAME
 {
-    class PLAYER : MOVINGOBJECT
+    public class PLAYER : MOVINGOBJECT
     {
-        public int x { get; set; }
-        public int y { get; set; }
-        public int speed { get; set; }
-        public int effecttime { get; set; }
-
         public PLAYER(int x, int y, int speed, int effecttime)
-            :base( x,  y,  speed)
+            : base(x, y, speed)
         {
-            this.effecttime = effecttime;
+            this.Effecttime = effecttime;
         }
+
+        public new int X { get; set; }
+
+        public new int Y { get; set; }
+
+        public new int Speed { get; set; }
+
+        public int Effecttime { get; set; }
 
         public void Changeeffecttime(int speed, int effecttime)
         {
-            if (this.speed + speed > 0 & this.effecttime + effecttime > 0)
+            if (this.Speed + speed > 0 & this.Effecttime + effecttime > 0)
             {
-                this.speed += speed;
-                this.effecttime += effecttime;
+                this.Speed += speed;
+                this.Effecttime += effecttime;
             }
         }
 
         public void Move(int x, int y, BARRIER barrier, BONUS bonus)
         {
-            if (!(barrier.x == this.x + x) & !(barrier.y == this.y + y))
+            if (!(barrier.X == this.X + x) & !(barrier.Y == this.Y + y))
             {
-                if (x >= base.x & x <= 0)
+                if (x >= base.X & x <= 0)
                 {
                     throw new Exception("player can not be located abroad, error x");
                 }
 
-                if (y >= base.y & y <= 0)
+                if (y >= base.Y & y <= 0)
                 {
                     throw new Exception("player can not be located abroad, error y");
                 }
 
-                this.x = x;
-                this.y = y;
+                this.X = x;
+                this.Y = y;
             }
 
-            if (bonus.x == this.x + x & bonus.y == this.y + y)
+            if (bonus.X == this.X + x & bonus.Y == this.Y + y)
             {
-                this.speed += bonus.speedincrease;
-                this.effecttime += bonus.effecttime;
+                this.Speed += bonus.Speedincrease;
+                this.Effecttime += bonus.Effecttime;
             }
         }
     }

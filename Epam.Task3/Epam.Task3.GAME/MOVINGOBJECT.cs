@@ -6,20 +6,16 @@ using System.Threading.Tasks;
 
 namespace Epam.Task3.GAME
 {
-    abstract class MOVINGOBJECT : TERRITORY
+    public abstract class MOVINGOBJECT : TERRITORY
     {
-        public int x { get; set; }
-        public int y { get; set; }
-        public int speed { get; set; }
-
         public MOVINGOBJECT(int x, int y, int speed)
         {
-            if (x >= base.x & x <= 0)
+            if (x >= base.X & x <= 0)
             {
                 throw new Exception("object can not be located abroad, error x");
             }
 
-            if (y >= base.y & y <= 0)
+            if (y >= base.Y & y <= 0)
             {
                 throw new Exception("object can not be located abroad, error y");
             }
@@ -29,27 +25,33 @@ namespace Epam.Task3.GAME
                 throw new Exception("object can not be negative");
             }
 
-            this.x = x;
-            this.y = y;
-            this.speed = speed;
+            this.X = x;
+            this.Y = y;
+            this.Speed = speed;
         }
+
+        public new int X { get; set; }
+
+        public new int Y { get; set; }
+
+        public int Speed { get; set; }
 
         public void Move(int x, int y, BARRIER barrier)
         {
-            if (!(barrier.x == this.x + x) & !(barrier.y == this.y + y))
+            if (!(barrier.X == this.X + x) & !(barrier.Y == this.Y + y))
             {
-                if (x >= base.x & x <= 0)
+                if (x >= base.X & x <= 0)
                 {
                     throw new Exception("object can not be located abroad, error x");
                 }
 
-                if (y >= base.y & y <= 0)
+                if (y >= base.Y & y <= 0)
                 {
                     throw new Exception("object can not be located abroad, error y");
                 }
 
-                this.x = x;
-                this.y = y;
+                this.X = x;
+                this.Y = y;
             }
         }
     }

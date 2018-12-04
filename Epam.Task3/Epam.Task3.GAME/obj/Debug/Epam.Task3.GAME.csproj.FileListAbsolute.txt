@@ -5,3 +5,10 @@ C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.GAME\obj\Debug\Epam.Task3
 C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.GAME\obj\Debug\Epam.Task3.GAME.csproj.CoreCompileInputs.cache
 C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.GAME\obj\Debug\Epam.Task3.GAME.exe
 C:\Users\Huy_s_gori\source\repos\Epam.Task3\Epam.Task3.GAME\obj\Debug\Epam.Task3.GAME.pdb
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task3\Epam.Task3.GAME\bin\Debug\Epam.Task3.GAME.exe.config
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task3\Epam.Task3.GAME\bin\Debug\Epam.Task3.GAME.exe
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task3\Epam.Task3.GAME\bin\Debug\Epam.Task3.GAME.pdb
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task3\Epam.Task3.GAME\obj\Debug\Epam.Task3.GAME.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task3\Epam.Task3.GAME\obj\Debug\Epam.Task3.GAME.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task3\Epam.Task3.GAME\obj\Debug\Epam.Task3.GAME.exe
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task3\Epam.Task3.GAME\obj\Debug\Epam.Task3.GAME.pdb
