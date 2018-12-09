@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.WORD FREQUENCY\bin\Debug\Epam.Task4.WORD FREQUENCY.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.WORD FREQUENCY\bin\Debug\Epam.Task4.WORD FREQUENCY.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.WORD FREQUENCY\bin\Debug\Epam.Task4.WORD FREQUENCY.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.WORD FREQUENCY\obj\Debug\Epam.Task4.WORD FREQUENCY.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.WORD FREQUENCY\obj\Debug\Epam.Task4.WORD FREQUENCY.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.WORD FREQUENCY\obj\Debug\Epam.Task4.WORD FREQUENCY.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.WORD FREQUENCY\obj\Debug\Epam.Task4.WORD FREQUENCY.csprojAssemblyReference.cache

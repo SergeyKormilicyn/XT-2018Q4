@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE)\bin\Debug\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE).exe.config
+C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE)\bin\Debug\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE).exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE)\bin\Debug\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE).pdb
+C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE)\obj\Debug\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE).csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE)\obj\Debug\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE).csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE)\obj\Debug\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE).exe
+C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE)\obj\Debug\Epam.Task4.DYNAMIC ARRAY (HARDCORE MODE).pdb

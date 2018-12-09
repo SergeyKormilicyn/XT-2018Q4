@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.LOST\bin\Debug\Epam.Task4.LOST.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.LOST\bin\Debug\Epam.Task4.LOST.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.LOST\bin\Debug\Epam.Task4.LOST.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.LOST\obj\Debug\Epam.Task4.LOST.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.LOST\obj\Debug\Epam.Task4.LOST.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.LOST\obj\Debug\Epam.Task4.LOST.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task4\Epam.Task4.LOST\obj\Debug\Epam.Task4.LOST.pdb
