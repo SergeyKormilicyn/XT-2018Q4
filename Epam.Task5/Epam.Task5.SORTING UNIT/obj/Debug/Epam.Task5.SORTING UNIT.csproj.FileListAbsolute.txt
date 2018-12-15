@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.SORTING UNIT\bin\Debug\Epam.Task5.SORTING UNIT.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.SORTING UNIT\bin\Debug\Epam.Task5.SORTING UNIT.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.SORTING UNIT\bin\Debug\Epam.Task5.SORTING UNIT.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.SORTING UNIT\obj\Debug\Epam.Task5.SORTING UNIT.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.SORTING UNIT\obj\Debug\Epam.Task5.SORTING UNIT.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.SORTING UNIT\obj\Debug\Epam.Task5.SORTING UNIT.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.SORTING UNIT\obj\Debug\Epam.Task5.SORTING UNIT.pdb

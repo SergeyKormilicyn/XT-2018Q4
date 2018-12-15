@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.CUSTOM SORT\bin\Debug\Epam.Task5.CUSTOM SORT.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.CUSTOM SORT\bin\Debug\Epam.Task5.CUSTOM SORT.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.CUSTOM SORT\bin\Debug\Epam.Task5.CUSTOM SORT.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.CUSTOM SORT\obj\Debug\Epam.Task5.CUSTOM SORT.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.CUSTOM SORT\obj\Debug\Epam.Task5.CUSTOM SORT.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.CUSTOM SORT\obj\Debug\Epam.Task5.CUSTOM SORT.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.CUSTOM SORT\obj\Debug\Epam.Task5.CUSTOM SORT.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task5.CUSTOM SORT", "Epam.Task5.CUSTOM SORT\Epam.Task5.CUSTOM SORT.csproj", "{47456D45-AB33-485F-A55F-9EAA389B88E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.CUSTOMSORTDEMO", "Epam.CUSTOMSORTDEMO\Epam.CUSTOMSORTDEMO.csproj", "{0D409D85-4A5B-42BC-91CA-40DFCD293104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task5.SORTING UNIT", "Epam.Task5.SORTING UNIT\Epam.Task5.SORTING UNIT.csproj", "{3560CB33-FB3F-4A7C-BAFB-5D6F835237E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task5.NUMBER ARRAY SUM", "Epam.Task5.NUMBER ARRAY SUM\Epam.Task5.NUMBER ARRAY SUM.csproj", "{313DD181-DD4E-46F5-A0C5-28F8C646360E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task5.TOINTORNOTTOINT", "Epam.Task5.TOINTORNOTTOINT\Epam.Task5.TOINTORNOTTOINT.csproj", "{2A89B632-1723-4697-88FD-C956B41C37E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task5.ISEEKYOU", "Epam.Task5.ISEEKYOU\Epam.Task5.ISEEKYOU.csproj", "{39619817-6A75-4D55-9B62-3C5F22C1297F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47456D45-AB33-485F-A55F-9EAA389B88E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47456D45-AB33-485F-A55F-9EAA389B88E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47456D45-AB33-485F-A55F-9EAA389B88E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47456D45-AB33-485F-A55F-9EAA389B88E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D409D85-4A5B-42BC-91CA-40DFCD293104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D409D85-4A5B-42BC-91CA-40DFCD293104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D409D85-4A5B-42BC-91CA-40DFCD293104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D409D85-4A5B-42BC-91CA-40DFCD293104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3560CB33-FB3F-4A7C-BAFB-5D6F835237E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3560CB33-FB3F-4A7C-BAFB-5D6F835237E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3560CB33-FB3F-4A7C-BAFB-5D6F835237E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3560CB33-FB3F-4A7C-BAFB-5D6F835237E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313DD181-DD4E-46F5-A0C5-28F8C646360E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313DD181-DD4E-46F5-A0C5-28F8C646360E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313DD181-DD4E-46F5-A0C5-28F8C646360E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313DD181-DD4E-46F5-A0C5-28F8C646360E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A89B632-1723-4697-88FD-C956B41C37E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A89B632-1723-4697-88FD-C956B41C37E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A89B632-1723-4697-88FD-C956B41C37E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A89B632-1723-4697-88FD-C956B41C37E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39619817-6A75-4D55-9B62-3C5F22C1297F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39619817-6A75-4D55-9B62-3C5F22C1297F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39619817-6A75-4D55-9B62-3C5F22C1297F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39619817-6A75-4D55-9B62-3C5F22C1297F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3748CC7-297C-4E30-8439-DB21750F792B}
+	EndGlobalSection
+EndGlobal

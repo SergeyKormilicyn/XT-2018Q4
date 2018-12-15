@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.TOINTORNOTTOINT\bin\Debug\Epam.Task5.TOINTORNOTTOINT.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.TOINTORNOTTOINT\bin\Debug\Epam.Task5.TOINTORNOTTOINT.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.TOINTORNOTTOINT\bin\Debug\Epam.Task5.TOINTORNOTTOINT.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.TOINTORNOTTOINT\obj\Debug\Epam.Task5.TOINTORNOTTOINT.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.TOINTORNOTTOINT\obj\Debug\Epam.Task5.TOINTORNOTTOINT.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.TOINTORNOTTOINT\obj\Debug\Epam.Task5.TOINTORNOTTOINT.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.TOINTORNOTTOINT\obj\Debug\Epam.Task5.TOINTORNOTTOINT.pdb

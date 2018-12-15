@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.NUMBER ARRAY SUM\bin\Debug\Epam.Task5.NUMBER ARRAY SUM.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.NUMBER ARRAY SUM\bin\Debug\Epam.Task5.NUMBER ARRAY SUM.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.NUMBER ARRAY SUM\bin\Debug\Epam.Task5.NUMBER ARRAY SUM.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.NUMBER ARRAY SUM\obj\Debug\Epam.Task5.NUMBER ARRAY SUM.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.NUMBER ARRAY SUM\obj\Debug\Epam.Task5.NUMBER ARRAY SUM.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.NUMBER ARRAY SUM\obj\Debug\Epam.Task5.NUMBER ARRAY SUM.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.NUMBER ARRAY SUM\obj\Debug\Epam.Task5.NUMBER ARRAY SUM.pdb

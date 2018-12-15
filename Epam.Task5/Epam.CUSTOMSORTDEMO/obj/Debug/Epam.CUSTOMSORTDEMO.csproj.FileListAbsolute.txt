@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.CUSTOMSORTDEMO\bin\Debug\Epam.CUSTOMSORTDEMO.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.CUSTOMSORTDEMO\bin\Debug\Epam.CUSTOMSORTDEMO.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.CUSTOMSORTDEMO\bin\Debug\Epam.CUSTOMSORTDEMO.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.CUSTOMSORTDEMO\obj\Debug\Epam.CUSTOMSORTDEMO.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.CUSTOMSORTDEMO\obj\Debug\Epam.CUSTOMSORTDEMO.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.CUSTOMSORTDEMO\obj\Debug\Epam.CUSTOMSORTDEMO.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.CUSTOMSORTDEMO\obj\Debug\Epam.CUSTOMSORTDEMO.pdb

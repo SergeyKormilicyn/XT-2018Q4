@@ -12,3 +12,10 @@ C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\obj\Debug\Epam.T
 C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\obj\Debug\Epam.Task4.DYNAMIC ARRAY.csproj.CoreCompileInputs.cache
 C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\obj\Debug\Epam.Task4.DYNAMIC ARRAY.exe
 C:\Users\Huy_s_gori\Desktop\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\obj\Debug\Epam.Task4.DYNAMIC ARRAY.pdb
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\bin\Debug\Epam.Task4.DYNAMIC ARRAY.exe.config
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\bin\Debug\Epam.Task4.DYNAMIC ARRAY.exe
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\bin\Debug\Epam.Task4.DYNAMIC ARRAY.pdb
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\obj\Debug\Epam.Task4.DYNAMIC ARRAY.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\obj\Debug\Epam.Task4.DYNAMIC ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\obj\Debug\Epam.Task4.DYNAMIC ARRAY.exe
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task4\Epam.Task4.DYNAMIC ARRAY\obj\Debug\Epam.Task4.DYNAMIC ARRAY.pdb

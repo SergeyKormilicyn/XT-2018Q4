@@ -1,0 +1,7 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.ISEEKYOU\bin\Debug\Epam.Task5.ISEEKYOU.exe.config
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.ISEEKYOU\bin\Debug\Epam.Task5.ISEEKYOU.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.ISEEKYOU\bin\Debug\Epam.Task5.ISEEKYOU.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.ISEEKYOU\obj\Debug\Epam.Task5.ISEEKYOU.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.ISEEKYOU\obj\Debug\Epam.Task5.ISEEKYOU.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.ISEEKYOU\obj\Debug\Epam.Task5.ISEEKYOU.exe
+C:\Users\Huy_s_gori\source\repos\Epam.Task5\Epam.Task5.ISEEKYOU\obj\Debug\Epam.Task5.ISEEKYOU.pdb
