@@ -97,7 +97,7 @@ namespace Epam.Task6.BACKUP_SYSTEM
 
         private void Savechanges(object sender, FileSystemEventArgs fileSystemEventArgs)
         {
-            DirectoryCopy(this.pathforwatch, Path.Combine(AppDomain.CurrentDomain.BaseDirectory, this.subpath, DateTime.Now.ToString("dd.MMMM.yyyy.HH.mm.ss")), false);
+            DirectoryCopy(this.pathforwatch, Path.Combine(AppDomain.CurrentDomain.BaseDirectory, this.subpath, DateTime.Now.ToString("dd.MMMM.yyyy.HH.mm.ss")), true);
         }
  
         private void Button1_Click(object sender, EventArgs e)
@@ -117,16 +117,24 @@ namespace Epam.Task6.BACKUP_SYSTEM
                         f.Delete();
                     }
 
-                    DirectoryCopy(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, this.subpath, dateTimePicker1.Text), this.pathforwatch, false);
+                    foreach (DirectoryInfo dir in this.dirInfo.GetDirectories())
+                    {
+                        dir.Delete(true);
+                    }
+
+                    DirectoryCopy(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, this.subpath, dateTimePicker1.Text), this.pathforwatch, true);
                     break;
                 }
-
-                d.Value -= onesec;
+               
                 if (i == twoday - 1)
                 {
                     MessageBox.Show("at that time  and 2 days ago there were no changes");
                 }
             }
+        }
+
+        private void BACKUPSYSTEM_Load(object sender, EventArgs e)
+        {
         }
     }
 }
