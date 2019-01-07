@@ -1,0 +1,12 @@
+C:\Users\Huy_s_gori\source\repos\Epam.Task7\Epam.Task7.USERS.Entities\bin\Debug\Epam.Task7.USERS.Entities.dll
+C:\Users\Huy_s_gori\source\repos\Epam.Task7\Epam.Task7.USERS.Entities\bin\Debug\Epam.Task7.USERS.Entities.pdb
+C:\Users\Huy_s_gori\source\repos\Epam.Task7\Epam.Task7.USERS.Entities\obj\Debug\Epam.Task7.USERS.Entities.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task7\Epam.Task7.USERS.Entities\obj\Debug\Epam.Task7.USERS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\source\repos\Epam.Task7\Epam.Task7.USERS.Entities\obj\Debug\Epam.Task7.USERS.Entities.dll
+C:\Users\Huy_s_gori\source\repos\Epam.Task7\Epam.Task7.USERS.Entities\obj\Debug\Epam.Task7.USERS.Entities.pdb
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task7\Epam.Task7.USERS.Entities\bin\Debug\Epam.Task7.USERS.Entities.dll
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task7\Epam.Task7.USERS.Entities\bin\Debug\Epam.Task7.USERS.Entities.pdb
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task7\Epam.Task7.USERS.Entities\obj\Debug\Epam.Task7.USERS.Entities.csprojAssemblyReference.cache
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task7\Epam.Task7.USERS.Entities\obj\Debug\Epam.Task7.USERS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task7\Epam.Task7.USERS.Entities\obj\Debug\Epam.Task7.USERS.Entities.dll
+C:\Users\Huy_s_gori\Desktop\epam\XT-2018Q4\Epam.Task7\Epam.Task7.USERS.Entities\obj\Debug\Epam.Task7.USERS.Entities.pdb
