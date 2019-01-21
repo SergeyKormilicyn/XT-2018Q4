@@ -1,0 +1,15 @@
+div{
+    background-color: #F9E497;
+    border: 1px solid black;
+    border-radius: 8px;
+    width: 200px;
+    box-shadow: 6px 6px 2px 1px #880000;
+}
+li{
+    list-style-type: none;
+    color: #880000;
+}
+ul {
+    padding: 7px;
+    margin: 0px;
+}

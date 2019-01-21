@@ -1,0 +1,18 @@
+h3{
+  color: white; 
+  font-weight: normal;
+  background-color: #008B66;
+  width: 350px;
+  padding: 10px;
+  margin: 15px;
+  position: relative;
+}
+p{
+  position: absolute;
+  background-color: #DFE6E1;
+  width: 330px;
+  border: 1px solid #fff; 
+  margin-top: -23px;
+  margin-left: 44px;
+  padding: 5px;
+}

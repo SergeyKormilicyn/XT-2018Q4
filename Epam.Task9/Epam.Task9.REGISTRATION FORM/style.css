@@ -1,0 +1,29 @@
+div{
+    background-color: #0690CF;
+    border: 2px solid #0075B2;
+    width: 400px;
+    padding-top: 15px;
+}
+.inputbig{
+    width: 323px;
+    margin: 0px 30px 20px 15px;
+}
+.inputlittle{
+    width: 150px;
+    margin: 0px 0px 15px 15px;
+}
+.text{
+    color: white;
+    margin: 0px 105px 0px 15px;
+    font-weight: normal;
+    display: inline;
+}
+button{
+    background-color: #FFDF7F;
+    margin: 15px 15px;
+    border: 0px;
+    height: 25px;
+}
+hr{
+    margin-bottom: 25px;
+}

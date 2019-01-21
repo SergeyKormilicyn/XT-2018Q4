@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+}
+p{
+  position: relative;
+  padding: 35px 13px 13px 13px;
+  width: 380px;
+  background-color: white;
+  border-radius: 0 0 16px 16px;
+  border: solid white;
+  background: linear-gradient(to bottom, white, #DDDDDD);
+}
+p::before {
+  content:'';
+  background:linear-gradient(-50deg, transparent 50%, black 50%);
+  width:40px;
+  height: 40px;
+  position:absolute;
+  top: -10px;
+  left: 95px;
+}
+P::after{
+    content: 'ЭКГ-5';
+    position: absolute;
+    left: -4px;
+    top: -5px;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: #FFB163;
+    z-index: 100;
+    background-color: black;
+    width:100px;
+    height: 35px;  
+}
