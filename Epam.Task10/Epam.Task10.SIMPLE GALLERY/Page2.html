@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>SIMPLE GALLERY</title>
+</head>
+<body  onload="init()">
+    <span id = "timer">5</span>
+    <input type="button" value="Stop ||" onclick="setPause('stop')">
+    <input type="button" value="Play >"  onclick="setPause('play')">
+    <input type="button" value="Prev <<" onclick="changePage('prev')">
+    <input type="button" value="Next >>" onclick="changePage('next')">
+    <div>
+    <img src="https://cs8.pikabu.ru/post_img/big/2018/01/16/4/1516081925121984554.jpg" alt="cat">
+    </div>
+    <script src = "slider.js">
+    </script>
+<script>
+        function changePage(mode)
+        {
+            if(mode == 'next')
+            window.open("Page3.html", "_self");
+            if(mode == 'prev')
+            window.open("Page1.html", "_self");         
+        }
+    </script>
+</body>
+</html>  
