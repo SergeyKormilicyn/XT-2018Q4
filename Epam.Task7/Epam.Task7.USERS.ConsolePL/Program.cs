@@ -18,7 +18,7 @@ namespace Epam.Task7.USERS.ConsolePL
         {
             var award = new Award
             {
-                Title = "zolupa"
+                Title = "oscar"
             };
             string input;
             var userLogic = DependencyResolver.UserLogic;
