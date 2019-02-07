@@ -1,0 +1,149 @@
+﻿@using Epam.Task7.USERS.BLL;
+@using Epam.Task7.USERS.BLL.Interface;
+@using Epam.Task7.USERS.Common;
+@using Epam.Task7.USERS.Entities;
+@{
+    /**/
+
+    Layout = null;
+}
+@{var userLogic = DependencyResolver.UserLogic;
+    var awardlogic = DependencyResolver.Awardlogic; }
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <style>
+        .elements {
+            display: inline-block;
+            border: solid;
+            padding: 15px;
+            margin-bottom: 3px;
+        }
+    </style>
+    @if (IsPost)
+    {
+        string nameuser = Request.Params["nameuser"] ?? string.Empty;
+        int ageuser = 0;
+        int userdelete = -1;
+        string awardname = Request.Params["awardname"] ?? string.Empty;
+        int userid = -1;
+        int awardid = -1;
+
+        int.TryParse(Request.Params["ageuser"], out ageuser);
+        if (!nameuser.Equals("") && ageuser != 0)
+        {
+            var user = new User
+            {
+                Name = nameuser,
+                DateOfBirth = DateTime.Now,
+                Age = ageuser,
+            };
+            userLogic.Add(user);
+        }
+
+        int.TryParse(Request.Params["userdelete"], out userdelete);
+        if (userdelete != -1 && nameuser.Equals(""))
+        {
+            userLogic.Delete(userdelete);
+        }
+
+        if (!awardname.Equals(""))
+        {
+            var award = new Award
+            {
+                Title = awardname,
+            };
+            awardlogic.AddAward(award);
+        }
+        int.TryParse(Request.Params["userid"], out userid);
+        int.TryParse(Request.Params["awardid"], out awardid);
+        if (userid != -1 && awardid != -1 && nameuser.Equals(""))
+        {
+            awardlogic.AddAwardForUser(userid, awardid);
+        }
+
+    }
+
+    <form action="/" method="post">
+        <h1>User</h1>
+        <div class="elements">
+            <p>add user</p>
+            <p>Enter a name</p>
+            <input type="text" name="nameuser" value="" />
+            <p>Enter a age more 4</p>
+            <input type="number" min="5" max="130" step="1" name="ageuser" />
+            <input type="submit" name="name" value="add user" />
+        </div>
+        <div class="elements">
+            <p>delete user</p>
+            <p>enter the ID of the user you want to delete</p>
+            <input type="number" min="-1" step="1" name="userdelete" value="-1" />
+            <input type="submit" name="name" value="delete user" />
+        </div>
+        <div class="elements">
+            <p>
+                Users <br>
+                Id | Name | Date Of Birth | Age
+                <br>
+                @{
+                    string showusers = userLogic.GetAll().Replace("\r\n", " | ");
+                }
+            </p>
+            @showusers
+        </div>
+        <div>
+            <h1>Award</h1>
+            <div class="elements">
+                <p>add award</p>
+                <p>Enter a name of award</p>
+                <input type="text" name="awardname" value="" />
+                <input type="submit" name="name" value="add award" />
+            </div>
+            <div class="elements">
+                <p>
+                    Awards <br>
+                    Id | Title
+                    <br>
+                    @{
+                        string showawards = awardlogic.GetAll().Replace("\r\n", " | ");
+                    }
+                </p>
+                @showawards
+            </div>
+        </div>
+        <div>
+            <h1>Award for user</h1>
+            <div class="elements">
+                <p>Add award for user</p>
+                <p>enter the user ID to which you want to add a award</p>
+                <input type="number" min=-1" step="1" name="userid" value="-1" />
+                <p>enter the award ID to which you want to add</p>
+                <input type="text" min="-1" step="1" name="awardid" value="-1" />
+                <input type="submit" name="name" value="add award" />
+            </div>
+            <div class="elements">
+                <p>show user award</p>
+                <p>
+                    enter the ID of the user you want to show awards
+                    <br>
+                    @{ int showaward = -1;
+                        if (IsPost)
+                        {
+                            int.TryParse(Request.Params["showaward"], out showaward);
+                        } }
+                    @userLogic.ShowAwards(showaward)
+                </p>
+                <input type="number" min="-1" step="1" name="showaward" value="-1" />
+                <input type="submit" name="name" value="show user award" />
+            </div>
+        </div>
+        </form>
+</body>
+</html>
+
